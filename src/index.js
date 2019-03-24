@@ -9,7 +9,6 @@ module.exports = function solveSudoku(matrix) {
   // [9, 6, 1, 5, 3, 7, 2, 8, 4],
   // [2, 8, 7, 4, 1, 9, 6, 3, 5],
   // [3, 4, 5, 2, 8, 6, 1, 7, 9]
-//https://en.wikipedia.org/wiki/Sudoku_solving_algorithms
 
 SolveSudoku(matrix);
 return matrix;
